@@ -1,0 +1,2 @@
+# Proxmox Shell Script
+本项目主要是用于通过shell脚本来调用proxmox命令，来自动化create、resize、delete 虚拟机。
